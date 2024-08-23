@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm Ilan, a dumb idiot who uses a very **overpowered** i don't even know years old Lenovo Thinkpad T460 for all of his projects. Don't expect me to be sucessfull in the future. Please. Don't believe in me. That's not healthy.
+I'm Ilan, a dumb idiot who uses a very **overpowered** i don't even know years old Lenovo Thinkpad T460 for all of his projects. Don't expect me to be sucessfull <---- in the future. Please. Don't believe in me. That's not healthy.
 
 Coding languages:
 
