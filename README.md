@@ -26,7 +26,7 @@ _start:
     mov rax, 1              ; When the system callllsssssss
     mov rdi, 1              ; The lines of the UNKNOWN (stdout)
     mov rsi, msg            ; Hey, what's the address?
-    mov rdx, 13             ; How long is that again? I like to mov it mov it
+    mov rdx, 13             ; How long is that again? 
     syscall                 ; Make the program go vrooom vrooom, Yes, yes.
 
     ; Exit the program
