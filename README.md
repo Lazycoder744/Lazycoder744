@@ -12,7 +12,8 @@ Coding languages:
 
 Skills:
 
-``` - section .data
+```
+section .data
     msg db 'vrooom vrooom', 0  ; I'm really good at making comments in code, vroom
 
 section .bss
