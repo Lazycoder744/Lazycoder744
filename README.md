@@ -12,7 +12,7 @@ Coding languages:
 
 Skills:
 
-- section .data
+``` - section .data
     msg db 'vrooom vrooom', 0  ; I'm really good at making comments in code, vroom
 
 section .bss
@@ -32,7 +32,7 @@ _start:
     mov rax, 60             ; Time to gooooo, 
     xor rdi, rdi            ; Exit code 0, mission failed, we will get them next time
     syscall
-
+```
 - Knows asm? WHO USES THAT?
 - Sleep deprived
 - on overdrive
